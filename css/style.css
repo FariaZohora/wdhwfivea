@@ -1,0 +1,13 @@
+
+.container-fluid{
+	color:white;
+	background-color:yellow;
+	text-align:center;
+}
+.row{
+	border:5px;
+}
+.col-lg-1,.col-lg-4,.col-lg-6,.col-lg-8,.col-lg-12,.col-md-2,.col-md-4,.col-md-6,.col-md-8,.col-md-12,.col-sm-3,.col-sm-4,.col-sm-6,.col-sm-8,.col-sm-12,.col-xs-2,.col-xs-4,.col-xs-6,.col-xs-8,.col-xs-12{
+	height:100px;
+	border:2px solid white;
+}
